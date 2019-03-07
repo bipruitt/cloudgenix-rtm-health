@@ -18,6 +18,7 @@ import cloudgenix_idname
 # Initialize Global Vars
 SDK_VERSION = cloudgenix.version
 SCRIPT_NAME = 'CloudGenix Python RTM Health'
+SCRIPT_VERSION = "5.1.1"
 count = 0
 plc2sle3 = 0
 pls2cle3 = 0
